@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amarante</item>
+        <item>@font/bebas_neue</item>
+        <item>@font/bowlby_one</item>
+        <item>@font/fredoka_one</item>
+        <item>@font/roboto_black</item>
+        <item>@font/zcool_xiaowei</item>
+    </array>
+</resources>

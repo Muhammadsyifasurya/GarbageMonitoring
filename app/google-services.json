@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499423015721",
+    "project_id": "monitoringsampah-35529",
+    "storage_bucket": "monitoringsampah-35529.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499423015721:android:022ec807d1aaea1e253d38",
+        "android_client_info": {
+          "package_name": "id.mentoring.tempatsampah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499423015721-eguhjr9i0gvmvbc29emu5k0cosn13070.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVHx_znCIEDFQ3ln4UGmOrQ94GnDbk2KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499423015721-eguhjr9i0gvmvbc29emu5k0cosn13070.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
